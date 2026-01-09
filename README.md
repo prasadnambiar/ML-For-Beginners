@@ -8,7 +8,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/microsoft/ML-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/ML-For-Beginners/network/)
 [![GitHub stars](https://img.shields.io/github/stars/microsoft/ML-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/ML-For-Beginners/stargazers/)
 
-### 🌐 Multi Language Support
+### 🌐 Multi-Language Support
 
 #### Supported via GitHub Action (Automated & Always Up-to-Date)
 
